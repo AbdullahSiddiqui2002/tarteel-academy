@@ -627,7 +627,7 @@ h6,
 
 @media (max-width: 480px) {
     .hero-slider-item {
-        padding-top: 120px;
+        padding-top: 200px;
         padding-bottom: 200px;
     }
 }
@@ -1100,7 +1100,7 @@ h6,
 }
 
 .faculty .swiper-button-prev, .swiper-button-next{
-    color: black !important;
+    color: #DAD3A9 !important;
 }
 
 .faculty .swiper-pagination-bullet{
