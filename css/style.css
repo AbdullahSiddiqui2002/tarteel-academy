@@ -1106,3 +1106,12 @@ h6,
 .faculty .swiper-pagination-bullet{
     background: #DAD3A9 !important;
 }
+
+
+@media only screen and (max-width: 992px) {
+    .navbar .dropdown-item {
+            white-space: wrap !important;
+        }
+}
+
+
