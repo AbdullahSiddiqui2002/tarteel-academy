@@ -166,10 +166,6 @@ h6,
     color: var(--bs-primary);
 }
 
-.fixed-top .navbar{
-    padding: 50px 0px 10px 0px !important;
-}
-
 .navbar .dropdown-toggle::after {
     border: none;
     content: "\f107";
@@ -1222,3 +1218,7 @@ h6,
 }
 
 /*end fixed social*/
+
+.fixed-top.bg-white .navbar {
+    padding: 50px 0px 10px 0px !important;
+}
